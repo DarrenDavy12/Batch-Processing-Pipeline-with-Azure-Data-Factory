@@ -1,16 +1,12 @@
 ---
 # Batch Processing Pipeline with Azure Data Factory
 
-
-*An efficient, scalable batch processing pipeline built with Azure Data Factory, showcasing data ingestion, transformation, and loading into a Data Lakehouse.*
-
 ---
 
 ## **Project Overview**
 
 ### **Description**
 This project demonstrates the development of a robust batch processing pipeline designed to handle large-scale data ingestion and transformation. Using **Azure Data Factory (ADF)**, the pipeline ingests data from multiple sources, applies transformations with **Dataflows (powered by Spark)**, and loads the processed data into an **Azure Data Lake Storage Gen2** lakehouse with incremental loading capabilities.
-
 
 ---
 
