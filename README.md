@@ -1,8 +1,6 @@
 ---
 # Batch Processing Pipeline with Azure Data Factory
 
----
-
 ## **Project Overview**
 
 ### **Description**
