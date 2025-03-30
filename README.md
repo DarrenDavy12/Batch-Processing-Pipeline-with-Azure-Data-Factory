@@ -123,6 +123,8 @@ az datafactory create \
 
 ![Image](https://github.com/user-attachments/assets/725bc65c-1435-4673-abaa-bca47f7af1f4)
 
+![image](https://github.com/user-attachments/assets/ca92f112-8bd5-42ec-919f-96341832154e)
+
 ---
 
 ### **Step 5: Link Data Lake Storage to ADF**
