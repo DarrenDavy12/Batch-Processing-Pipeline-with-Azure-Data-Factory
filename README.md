@@ -116,8 +116,12 @@ az datafactory create \
 ```
 **Explanation**:  
 - `BatchPipelineADF` is a unique name for the factory.
-- Placed in the same region as other resources to minimize latency.  
-**Screenshot**: Display the new ADF instance in the Azure Portal under "Data Factories."
+- Placed in the same region as other resources to minimize latency.
+
+   
+![Image](https://github.com/user-attachments/assets/82220c28-f4fa-401c-8674-064ffa3d5d90)
+
+![Image](https://github.com/user-attachments/assets/725bc65c-1435-4673-abaa-bca47f7af1f4)
 
 ---
 
