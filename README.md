@@ -101,6 +101,8 @@ az storage fs create \
 
 ![Image](https://github.com/user-attachments/assets/cc3e07a0-2bb2-4e1e-9d19-7e7c6a9b49e3)
 
+![Image](https://github.com/user-attachments/assets/03ae63e2-5a5c-4f55-84d0-14c0bb7d37dd)
+
 ---
 
 ### **Step 4: Deploy Azure Data Factory**
