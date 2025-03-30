@@ -67,6 +67,9 @@ az storage account create \
 
 ![Image](https://github.com/user-attachments/assets/5b491de1-67b1-49a4-8b64-3f290ff96c23)
 
+![Image](https://github.com/user-attachments/assets/31dd87f3-1d68-4fcd-9b07-0135330fb3f0)
+
+![Image](https://github.com/user-attachments/assets/898908b6-9099-45cb-acee-2f11f134ee58)
 
 ---
 
