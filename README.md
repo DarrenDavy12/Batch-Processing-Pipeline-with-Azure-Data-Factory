@@ -161,7 +161,7 @@ I ran into an error while testing the connection.
 
 
 
-![Image](https://github.com/user-attachments/assets/73ed7097-ed64-49ae-811c-19e6361c294c)
+![Image](https://github.com/user-attachments/assets/d186a08e-6230-4c96-a7df-24876bd0bb62)
 
 ---
 
