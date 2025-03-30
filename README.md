@@ -41,7 +41,7 @@ az group create --name BatchPipelineRG --location eastus
 - `eastus` is chosen for proximity (adjust based on your region for latency optimization).
 
 
-![image](https://github.com/user-attachments/assets/6e865c02-c056-45a2-a5e5-9253090242ac)
+![Image](https://github.com/user-attachments/assets/ea2a574f-7242-49bd-9a84-c669f9854265)
 
 ---
 
