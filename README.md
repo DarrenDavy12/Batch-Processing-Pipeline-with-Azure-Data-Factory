@@ -90,7 +90,9 @@ az storage fs create \
 **Explanation**:  
 - Three containers: `raw` (source data), `staging` (intermediate), and `processed` (final output).
 - `--auth-mode login` uses your Azure CLI credentials for authentication.  
-**Screenshot**: Show the "Containers" section in the storage account with `raw`, `staging`, and `processed`.
+
+
+![Image](https://github.com/user-attachments/assets/9ee37766-9ba6-4aeb-aaa7-60a3f31a93b0)
 
 ---
 
