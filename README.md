@@ -60,8 +60,10 @@ az storage account create \
 **Explanation**:  
 - `batchpipelinestorage` is a globally unique name.
 - `Standard_LRS` (Locally Redundant Storage) balances cost and reliability.
-- `--hns true` enables hierarchical namespace for lakehouse compatibility.  
-**Screenshot**: Capture the storage account in the Azure Portal under "Storage Accounts."
+- `--hns true` enables hierarchical namespace for lakehouse compatibility.
+
+  
+![Image](https://github.com/user-attachments/assets/30e968a7-9e9a-4725-bb71-f841c8e400b7)
 
 ---
 
