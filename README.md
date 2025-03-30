@@ -39,7 +39,7 @@ az group create --name BatchPipelineRG --location eastus
 **Explanation**:  
 - `BatchPipelineRG` is a unique name for the resource group.
 - `eastus` is chosen for proximity (adjust based on your region for latency optimization).  
-**Screenshot**: Take a screenshot of the Azure Portal showing the new resource group under "Resource Groups."
+![image](https://github.com/user-attachments/assets/6e865c02-c056-45a2-a5e5-9253090242ac)
 
 ---
 
