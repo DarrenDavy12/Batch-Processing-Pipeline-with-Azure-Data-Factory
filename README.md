@@ -129,7 +129,7 @@ az datafactory create \
 **Why**: A linked service connects ADF to the Data Lake for data movement and storage.  
 **Manual Step**:  
 1. Open ADF in the Azure Portal.
-2. Go to "Author" > "Connections" > "New Linked Service."
+2. Go to "Author" > "Manage" > "New Linked Service."
 3. Select "Azure Data Lake Storage Gen2."
 4. Enter:
    - Name: `DataLakeLinkedService`
