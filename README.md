@@ -65,8 +65,9 @@ az storage account create \
   
 ![Image](https://github.com/user-attachments/assets/30e968a7-9e9a-4725-bb71-f841c8e400b7)
 
-
 ![Image](https://github.com/user-attachments/assets/5b491de1-67b1-49a4-8b64-3f290ff96c23)
+
+
 ---
 
 ### **Step 3: Create Containers in Data Lake Storage**
