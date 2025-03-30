@@ -141,6 +141,8 @@ az datafactory create \
 - This links ADF to the lakehouse for read/write operations.  
 **Screenshot**: Show the "Linked Services" tab with `DataLakeLinkedService` configured.
 
+![Image](https://github.com/user-attachments/assets/37e95852-fdf6-4977-aebc-216249f94e93)
+
 ---
 
 ### **Step 6: Create a Pipeline in ADF**
