@@ -163,6 +163,10 @@ I ran into an error while testing the connection.
 
 ![Image](https://github.com/user-attachments/assets/d186a08e-6230-4c96-a7df-24876bd0bb62)
 
+
+
+![Image](https://github.com/user-attachments/assets/2b722675-95cf-4a92-908c-6327a1b1e4d4)
+
 ---
 
 ### **Step 6: Create a Pipeline in ADF**
