@@ -69,7 +69,7 @@ az storage account create \
 
 ![Image](https://github.com/user-attachments/assets/31dd87f3-1d68-4fcd-9b07-0135330fb3f0)
 
-![Image](https://github.com/user-attachments/assets/f112d7ff-4da9-407b-980e-679f70c7d044)
+
 
 ---
 
@@ -100,6 +100,8 @@ az storage fs create \
 ![Image](https://github.com/user-attachments/assets/ca52e278-87b6-44c0-b662-b89588d866bd)
 
 ![Image](https://github.com/user-attachments/assets/4140bd1b-cf81-43bf-8030-8ca4db6e065f)
+
+![Image](https://github.com/user-attachments/assets/cc3e07a0-2bb2-4e1e-9d19-7e7c6a9b49e3)
 
 ---
 
