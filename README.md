@@ -145,6 +145,10 @@ az datafactory create \
 
 ![Image](https://github.com/user-attachments/assets/37e95852-fdf6-4977-aebc-216249f94e93)
 
+
+I ran into an error whiile testing the connection.
+
+
 ![Image](https://github.com/user-attachments/assets/bbd816ba-8956-4fb9-9295-2bbbc88b3fbd)
 
 ---
