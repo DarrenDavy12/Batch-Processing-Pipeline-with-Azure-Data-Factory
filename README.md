@@ -175,8 +175,10 @@ I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-r
 ![image](https://github.com/user-attachments/assets/2b9e6cf6-554b-4dc4-a663-4be3e1bc5e09)
 
 
+![Image](https://github.com/user-attachments/assets/bcecfb5a-1274-463d-963b-89a53f840473)
 
-![Image](https://github.com/user-attachments/assets/aac75851-4e94-4682-9e21-0efb800ba181)
+
+![Image](https://github.com/user-attachments/assets/dc9ee967-707b-4c72-b915-c818343188e8)
 
 
 ---
