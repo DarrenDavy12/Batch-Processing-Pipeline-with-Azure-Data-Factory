@@ -203,6 +203,15 @@ Then I waited for approval state to clear.
 
 ![Image](https://github.com/user-attachments/assets/688cf055-c0f1-44c2-8e74-82512637da18)
 
+
+
+
+Connection approved along with interactive authroring being enabled. 
+
+
+![image](https://github.com/user-attachments/assets/f55ffa86-1669-4190-8fc7-9f39b4552595)
+
+
 ---
 
 ### **Step 6: Create a Pipeline in ADF**
