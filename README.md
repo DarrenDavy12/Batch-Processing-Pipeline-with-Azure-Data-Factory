@@ -178,6 +178,11 @@ I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-r
 ![Image](https://github.com/user-attachments/assets/bcecfb5a-1274-463d-963b-89a53f840473)
 
 
+
+Then I waited for approval state to clear. 
+
+
+
 ![Image](https://github.com/user-attachments/assets/dc9ee967-707b-4c72-b915-c818343188e8)
 
 
