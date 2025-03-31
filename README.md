@@ -245,6 +245,13 @@ tested the connection again this time was successful.
 
 Afterwards I click create, to create the linked service. 
 
+
+
+
+![Image](https://github.com/user-attachments/assets/bb11270e-0ec7-4f77-951f-0eee12e40e75)
+
+
+
 ---
 
 ### **Step 6: Create a Pipeline in ADF**
