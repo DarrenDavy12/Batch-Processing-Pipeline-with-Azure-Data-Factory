@@ -261,8 +261,12 @@ Afterwards I click create, to create the linked service.
 2. Name it `BatchProcessingPipeline`.
 3. Add activities (detailed in Step 7).  
 **Explanation**:  
-- The pipeline is the core orchestration logic, chaining tasks in sequence.  
-**Screenshot**: Capture the pipeline canvas with the name `BatchProcessingPipeline`.
+- The pipeline is the core orchestration logic, chaining tasks in sequence.
+
+
+
+  
+![Image](https://github.com/user-attachments/assets/9fd8bde9-c2b1-46d8-9b6e-71278aa062b9)
 
 ---
 
