@@ -153,11 +153,6 @@ I ran into an error while testing the connection.
 
 
 
-![Image](https://github.com/user-attachments/assets/ca74d648-96b3-4b23-819d-631cc4200da5)
-
-
-
-![Image](https://github.com/user-attachments/assets/9a732d03-b3c0-4d2a-8b8c-50d4ac514615)
 
 
 I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-runtime 
