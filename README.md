@@ -327,7 +327,14 @@ az storage blob upload \
 **Explanation**:  
 - Spark ensures scalability for large datasets.
 - Transformations improve data quality, a key Azure Data Engineer skill.  
-**Screenshot**: Show the Dataflow canvas with transformations applied.
+
+
+
+![Image](https://github.com/user-attachments/assets/1dbeb49c-2ad2-42d9-ae9d-82dbe7c4752e)
+
+
+
+![Image](https://github.com/user-attachments/assets/8beb37f4-5e77-44e1-bad6-f6f164af4cd9)
 
 ---
 
