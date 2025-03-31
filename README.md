@@ -228,6 +228,23 @@ system assigned user identities and ADF resource as the selected member.
 ![Image](https://github.com/user-attachments/assets/382735fc-9044-44c2-9bc3-4067fc74234b)
 
 
+
+Then reviewed and assign. 
+
+
+![Image](https://github.com/user-attachments/assets/478d686a-10b8-4e01-813b-8e162a6c6372)
+
+
+
+refreshed the private endpoint on ADF and 
+tested the connection again this time was successful.
+
+
+![Image](https://github.com/user-attachments/assets/4706f6a5-5e45-40a0-9c69-49215a0d6307)
+
+
+
+
 ---
 
 ### **Step 6: Create a Pipeline in ADF**
