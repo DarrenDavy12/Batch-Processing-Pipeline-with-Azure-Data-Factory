@@ -236,7 +236,7 @@ Then reviewed and assign.
 
 
 
-refreshed the private endpoint on ADF and 
+Refreshed the private endpoint on ADF and 
 tested the connection again this time was successful.
 
 
