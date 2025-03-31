@@ -110,12 +110,12 @@ az storage fs create \
 **Command**:
 ```bash
 az datafactory create \
-  --name BatchPipelineADF \
+  --name BatchP-ADF \
   --resource-group BatchPipelineRG \
   --location eastus
 ```
 **Explanation**:  
-- `BatchPipelineADF` is a unique name for the factory.
+- `BatchP-ADF` is a unique name for the factory.
 - Placed in the same region as other resources to minimize latency.
 
    
@@ -166,6 +166,14 @@ I ran into an error while testing the connection.
 
 
 ![Image](https://github.com/user-attachments/assets/2b722675-95cf-4a92-908c-6327a1b1e4d4)
+
+
+I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-runtime 
+
+
+
+![Image](https://github.com/user-attachments/assets/67e0c8e7-7c73-4d00-83ab-c98c23ce9fda)
+
 
 ---
 
