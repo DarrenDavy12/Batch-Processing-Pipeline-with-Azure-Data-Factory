@@ -212,6 +212,16 @@ Connection approved along with interactive authroring being enabled.
 ![image](https://github.com/user-attachments/assets/f55ffa86-1669-4190-8fc7-9f39b4552595)
 
 
+
+Edited storage account (ADLS) 
+Added a new role assignment, my user account assigned to storage blob contributer. 
+Selected members, system assigned user identities and ADF resource as the selected member. 
+
+
+
+![Image](https://github.com/user-attachments/assets/382735fc-9044-44c2-9bc3-4067fc74234b)
+
+
 ---
 
 ### **Step 6: Create a Pipeline in ADF**
