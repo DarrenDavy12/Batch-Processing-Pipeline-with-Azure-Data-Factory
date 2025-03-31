@@ -243,7 +243,7 @@ tested the connection again this time was successful.
 ![Image](https://github.com/user-attachments/assets/4706f6a5-5e45-40a0-9c69-49215a0d6307)
 
 
-
+Afterwards I click create, to create the linked service. 
 
 ---
 
