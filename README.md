@@ -192,11 +192,13 @@ I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-r
 
 
 
-Then I waited for approval state to clear. 
-
+Connected with private endpoint.
 
 
 ![Image](https://github.com/user-attachments/assets/dc9ee967-707b-4c72-b915-c818343188e8)
+
+
+Then I waited for approval state to clear. 
 
 
 ![Image](https://github.com/user-attachments/assets/688cf055-c0f1-44c2-8e74-82512637da18)
