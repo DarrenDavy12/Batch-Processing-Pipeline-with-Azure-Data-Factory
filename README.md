@@ -156,10 +156,18 @@ in the configuration settings under the networking tab.
 ![Image](https://github.com/user-attachments/assets/bbd816ba-8956-4fb9-9295-2bbbc88b3fbd)
 
 
+
+I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-runtime. 
+
+
+
 ![Image](https://github.com/user-attachments/assets/f4f127cd-a75b-482c-9646-1856db7785e7)
 
 
-I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-runtime 
+![Image](https://github.com/user-attachments/assets/aac75851-4e94-4682-9e21-0efb800ba181)
+
+
+
 
 
 
