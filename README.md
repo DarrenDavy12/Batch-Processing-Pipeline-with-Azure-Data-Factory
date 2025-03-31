@@ -288,8 +288,12 @@ az storage blob upload \
 ```
 **Explanation**:  
 - The "Copy Data" activity moves data without transformation, preserving the raw state.
-- Sample CSV mimics a common enterprise data format.  
-**Screenshot**: Show the "Copy Data" activity settings with source and sink configured.
+- Sample CSV mimics a common enterprise data format.
+
+
+
+![image](https://github.com/user-attachments/assets/01d71d09-8b81-44af-a70d-2f336810fabb)
+
 
 ---
 
