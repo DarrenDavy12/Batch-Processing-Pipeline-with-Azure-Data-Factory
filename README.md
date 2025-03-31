@@ -147,6 +147,10 @@ az datafactory create \
 
 
 I ran into an error while testing the connection.
+The error says, I need to enable auto-resolve-integration-runtime on the ADF.
+At the time I could not find the edit tab for the ADF and because I just made this resource,
+I started over and made a new data factory and this time enabled auto-resolve-integration-runtime
+in the configuration settings undeer the networking tab. 
 
 
 ![Image](https://github.com/user-attachments/assets/bbd816ba-8956-4fb9-9295-2bbbc88b3fbd)
@@ -161,6 +165,7 @@ I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-r
 
 ![Image](https://github.com/user-attachments/assets/67e0c8e7-7c73-4d00-83ab-c98c23ce9fda)
 
+![image](https://github.com/user-attachments/assets/2b9e6cf6-554b-4dc4-a663-4be3e1bc5e09)
 
 ---
 
