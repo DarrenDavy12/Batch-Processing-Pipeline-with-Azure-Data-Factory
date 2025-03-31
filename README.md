@@ -147,9 +147,12 @@ az datafactory create \
 
 
 I ran into an error while testing the connection.
-The error says, I need to enable auto-resolve-integration-runtime on the ADF.
-At the time I could not find the edit tab for the ADF and because I'd just made this resource,
-So I started over and made a new data factory and this time enabled auto-resolve-integration-runtime
+The error says, I need to enable auto-resolve-integration-runtime 
+on the ADF.
+At the time I could not find the edit tab for the ADF 
+and because I'd just made this resource,
+So I started over and made a new data factory 
+and this time enabled auto-resolve-integration-runtime
 in the configuration settings under the networking tab. 
 
 
@@ -157,7 +160,8 @@ in the configuration settings under the networking tab.
 
 
 
-I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-runtime. 
+I had to recreate the "BatchP-ADF" pipeline 
+to accept auto-resolve-integration-runtime. 
 
 
 
@@ -214,8 +218,10 @@ Connection approved along with interactive authroring being enabled.
 
 
 Edited storage account (ADLS) 
-Added a new role assignment, my user account assigned to storage blob contributer. 
-Selected members, system assigned user identities and ADF resource as the selected member. 
+Added a new role assignment, 
+my user account assigned to storage blob contributer. 
+Selected members, 
+system assigned user identities and ADF resource as the selected member. 
 
 
 
