@@ -156,7 +156,7 @@ in the configuration settings undeer the networking tab.
 ![Image](https://github.com/user-attachments/assets/bbd816ba-8956-4fb9-9295-2bbbc88b3fbd)
 
 
-
+![Image](https://github.com/user-attachments/assets/f4f127cd-a75b-482c-9646-1856db7785e7)
 
 
 I had to recreate the "BatchP-ADF" pipeline to accept auto-resolve-integration-runtime 
