@@ -344,6 +344,8 @@ az storage blob upload \
 
 
 
+![Image](https://github.com/user-attachments/assets/f2df38ed-6706-4e50-ace4-ca7715785f7f)
+
 
 ---
 
