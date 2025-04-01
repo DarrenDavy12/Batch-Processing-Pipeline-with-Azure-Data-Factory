@@ -355,6 +355,10 @@ az storage blob upload \
 
 
 
+
+![Image](https://github.com/user-attachments/assets/b7fadfe4-982e-4edd-93af-2645ec6908c6)
+
+
 ---
 
 ### **Step 9: Implement Incremental Loading**
