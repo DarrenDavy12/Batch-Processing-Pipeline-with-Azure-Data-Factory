@@ -291,6 +291,7 @@ az storage blob upload \
 - Sample CSV mimics a common enterprise data format.
 
 
+![Image](https://github.com/user-attachments/assets/e9385899-3c31-4a1f-927f-c24fc9310283)
 
 
 
