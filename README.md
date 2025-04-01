@@ -292,23 +292,9 @@ az storage blob upload \
 
 
 
-![image](https://github.com/user-attachments/assets/01d71d09-8b81-44af-a70d-2f336810fabb)
-
-
-![Image](https://github.com/user-attachments/assets/9818cbec-cecc-447d-bfc9-db448dbe67e6)
 
 
 
-![Image](https://github.com/user-attachments/assets/a0b7ca4e-fae2-4bf5-8300-b81eb643c500)
-
-
-
-
-![Image](https://github.com/user-attachments/assets/47b9129a-00d0-4d72-a568-40d9fbf1c003)
-
-
-
-![Image](https://github.com/user-attachments/assets/1dbeb49c-2ad2-42d9-ae9d-82dbe7c4752e)
 
 
 
@@ -329,34 +315,6 @@ az storage blob upload \
 - Transformations improve data quality, a key Azure Data Engineer skill.  
 
 
-
-![Image](https://github.com/user-attachments/assets/1dbeb49c-2ad2-42d9-ae9d-82dbe7c4752e)
-
-
-
-![Image](https://github.com/user-attachments/assets/4f01c05a-a0e1-450d-bfde-b40b313db576)
-
-
-
-
-![Image](https://github.com/user-attachments/assets/8beb37f4-5e77-44e1-bad6-f6f164af4cd9)
-
-
-
-
-![Image](https://github.com/user-attachments/assets/f2df38ed-6706-4e50-ace4-ca7715785f7f)
-
-
-
-
-
-
-![Image](https://github.com/user-attachments/assets/fbe1cfd4-e410-4a24-9431-d0ef05459e13)
-
-
-
-
-![Image](https://github.com/user-attachments/assets/b7fadfe4-982e-4edd-93af-2645ec6908c6)
 
 
 ---
