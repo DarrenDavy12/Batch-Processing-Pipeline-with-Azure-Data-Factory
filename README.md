@@ -295,9 +295,15 @@ az storage blob upload \
 
 
 
+![Image](https://github.com/user-attachments/assets/7040f964-8d0e-43de-8d4d-64a61243df58)
 
 
 
+![Image](https://github.com/user-attachments/assets/1d62b43a-b62d-4b64-a4e8-840b048b44b1)
+
+
+
+![Image](https://github.com/user-attachments/assets/71703bea-8370-4e06-8487-8abb2bda704e)
 
 
 ---
