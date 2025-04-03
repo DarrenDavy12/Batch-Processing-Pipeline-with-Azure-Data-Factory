@@ -356,6 +356,12 @@ I renamed DelimitedText1 and DelimitedText2 to raw_data and staging_data.
 
 
 
+
+![Image](https://github.com/user-attachments/assets/ee8f9d34-4f95-48fc-96da-871b2cdcfafe)
+
+
+
+
 ---
 
 ### **Step 9: Implement Incremental Loading**
