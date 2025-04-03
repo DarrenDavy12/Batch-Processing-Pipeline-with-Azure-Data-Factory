@@ -306,6 +306,11 @@ az storage blob upload \
 ![Image](https://github.com/user-attachments/assets/71703bea-8370-4e06-8487-8abb2bda704e)
 
 
+
+![Image](https://github.com/user-attachments/assets/5b893f4c-8c56-4091-9846-651ef30f8ea2)
+
+
+
 ---
 
 ### **Step 8: Add Transformation with Dataflows**
