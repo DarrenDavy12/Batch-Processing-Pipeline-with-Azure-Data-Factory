@@ -329,6 +329,8 @@ az storage blob upload \
 
 
 
+
+
 ---
 
 ### **Step 8: Add Transformation with Dataflows**
@@ -344,7 +346,7 @@ az storage blob upload \
 - Spark ensures scalability for large datasets.
 - Transformations improve data quality, a key Azure Data Engineer skill.  
 
-
+I renamed DelimitedText1 and DelimitedText2 to raw_data and staging_data.
 
 
 ---
