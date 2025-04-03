@@ -369,12 +369,6 @@ I renamed DelimitedText1 and DelimitedText2 to raw_data and staging_data.
 
 
 
-![Image](https://github.com/user-attachments/assets/63f26132-1314-44ab-adf7-30096c1af876)
-
-
-
-
-
 ![Image](https://github.com/user-attachments/assets/92af34ac-d8bb-42dd-b86e-c756908a964a)
 
 
