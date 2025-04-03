@@ -349,6 +349,13 @@ az storage blob upload \
 I renamed DelimitedText1 and DelimitedText2 to raw_data and staging_data.
 
 
+
+
+![Image](https://github.com/user-attachments/assets/0d2dbf67-3ff1-4784-89aa-4f01abe1eeff)
+
+
+
+
 ---
 
 ### **Step 9: Implement Incremental Loading**
