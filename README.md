@@ -365,7 +365,13 @@ I renamed DelimitedText1 and DelimitedText2 to raw_data and staging_data.
 **Explanation**:  
 - Reduces redundant processing, critical for large-scale systems.
 - Metadata-driven logic is an industry best practice.  
-**Screenshot**: Show the pipeline with "Lookup" and "Filter" activities connected.
+
+
+![Image](https://github.com/user-attachments/assets/2e01e136-e74e-46e8-a19d-37192cbc9530)
+
+
+
+
 
 ---
 
