@@ -383,19 +383,7 @@ I renamed DelimitedText1 and DelimitedText2 to raw_data and staging_data.
 **Explanation**:  
 - Debugging catches errors early.
 - Logs provide metrics (e.g., runtime, data volume) for optimization.  
-**Screenshot**: Capture the "Monitor" tab with a successful pipeline run.
 
----
+![Image](https://github.com/user-attachments/assets/9b32c5bc-94ef-4dfd-b856-cc55e3a91f4d)
 
-## **Repository Structure**
-```
-├── configs/
-│   ├── pipeline.json         # ADF pipeline configuration
-│   ├── dataflow.json        # Dataflow transformation script
-├── scripts/
-│   ├── deploy.sh            # Azure CLI deployment script
-├── sample_data/
-│   ├── sample_data.csv      # Sample input data
-├── README.md                # This file
-```
 
