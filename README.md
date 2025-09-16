@@ -1,5 +1,5 @@
 ---
-# FLIGHT TIMES - ETL Batch Processing Pipeline with Azure Data Factory
+# Flight Times - ETL Batch Processing Pipeline with Azure Data Factory
 
 ## **Project Overview**
 
